@@ -52,7 +52,7 @@
 [cm]
 ;コメントアウト
 
-[bg storage=eat.jpg time=500]
+[bg storage=run.jpg time=500]
 
 メロスは眼前にあるもの全てを喰らい尽くした。[l][r]
 勇者も同様に腹を満たし,動けなくなった。[r]
